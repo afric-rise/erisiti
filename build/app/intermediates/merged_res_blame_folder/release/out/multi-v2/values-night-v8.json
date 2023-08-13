@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.erisiti.app-mergeReleaseResources-9:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/egovridc/Desktop/FlutterApps/erisiti/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,805",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "465,969"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,226",
+                        "endLines": "5,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "221,390"
+                    }
+                }
+            ]
+        }
+    ]
+}

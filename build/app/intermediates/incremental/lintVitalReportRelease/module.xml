@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/egovridc/Desktop/FlutterApps/erisiti/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.3.0"
+    buildFolder="/home/egovridc/Desktop/FlutterApps/erisiti/build/app"
+    bootClassPath="/home/egovridc/Android/Sdk/platforms/android-33/android.jar:/home/egovridc/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

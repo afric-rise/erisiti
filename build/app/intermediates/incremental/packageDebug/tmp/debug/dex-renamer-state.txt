@@ -1,0 +1,4 @@
+#Sat Aug 12 18:14:37 EAT 2023
+base.0=/home/egovridc/Desktop/FlutterApps/erisiti/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
